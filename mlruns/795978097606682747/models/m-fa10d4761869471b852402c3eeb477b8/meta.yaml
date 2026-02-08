@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ADMIN/Documents/IDM/Mlflow project/Project/mlruns/795978097606682747/models/m-fa10d4761869471b852402c3eeb477b8/artifacts
+creation_timestamp: 1770339359499
+experiment_id: '795978097606682747'
+last_updated_timestamp: 1770339422224
+model_id: m-fa10d4761869471b852402c3eeb477b8
+model_type: null
+name: car_model
+source_run_id: cc494d86f6ac4993a03b84c197f13e28
+status: 2
+status_message: null

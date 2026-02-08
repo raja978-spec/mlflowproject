@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Documents/IDM/Mlflow project/Project/mlruns/795978097606682747/0b30dbb01cf84f5585aa174a4d72c600/artifacts
+end_time: 1770340022031
+entry_point_name: ''
+experiment_id: '795978097606682747'
+lifecycle_stage: active
+run_id: 0b30dbb01cf84f5585aa174a4d72c600
+run_name: bold-wasp-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770340021819
+status: 3
+tags: []
+user_id: ADMIN

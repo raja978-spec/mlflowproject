@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/ADMIN/Documents/IDM/Data science/DL/10_model_monitoring/Project/mlruns/1/models/m-dbd3fd69b5ba4239a7bddd99c8a67f3d/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.0
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0+cpu
+mlflow_version: 3.8.1
+model_id: m-dbd3fd69b5ba4239a7bddd99c8a67f3d
+model_size_bytes: 44793566
+model_uuid: m-dbd3fd69b5ba4239a7bddd99c8a67f3d
+prompts: null
+run_id: d9a47c30c0504f1687061c1acc81c9e8
+utc_time_created: '2026-01-28 06:28:56.183197'

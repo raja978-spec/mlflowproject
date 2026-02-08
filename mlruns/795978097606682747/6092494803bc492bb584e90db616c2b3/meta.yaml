@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Documents/IDM/Mlflow project/Project/mlruns/795978097606682747/6092494803bc492bb584e90db616c2b3/artifacts
+end_time: 1770179182202
+entry_point_name: ''
+experiment_id: '795978097606682747'
+lifecycle_stage: active
+run_id: 6092494803bc492bb584e90db616c2b3
+run_name: wise-foal-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770179182106
+status: 3
+tags: []
+user_id: ADMIN

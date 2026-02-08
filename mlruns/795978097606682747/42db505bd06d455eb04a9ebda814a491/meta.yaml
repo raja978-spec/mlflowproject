@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Documents/IDM/Mlflow project/Project/mlruns/795978097606682747/42db505bd06d455eb04a9ebda814a491/artifacts
+end_time: 1770182628304
+entry_point_name: ''
+experiment_id: '795978097606682747'
+lifecycle_stage: active
+run_id: 42db505bd06d455eb04a9ebda814a491
+run_name: luminous-tern-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770182423491
+status: 3
+tags: []
+user_id: ADMIN

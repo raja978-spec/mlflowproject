@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Documents/IDM/Mlflow project/Project/mlruns/795978097606682747/f9a8b0f381224fc3a028ed75214f40cd/artifacts
+end_time: 1770179196135
+entry_point_name: ''
+experiment_id: '795978097606682747'
+lifecycle_stage: active
+run_id: f9a8b0f381224fc3a028ed75214f40cd
+run_name: likeable-sponge-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770179196038
+status: 3
+tags: []
+user_id: ADMIN

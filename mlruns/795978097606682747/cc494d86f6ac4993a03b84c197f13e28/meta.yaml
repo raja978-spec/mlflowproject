@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Documents/IDM/Mlflow project/Project/mlruns/795978097606682747/cc494d86f6ac4993a03b84c197f13e28/artifacts
+end_time: 1770339422289
+entry_point_name: ''
+experiment_id: '795978097606682747'
+lifecycle_stage: active
+run_id: cc494d86f6ac4993a03b84c197f13e28
+run_name: rare-frog-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770338779777
+status: 3
+tags: []
+user_id: ADMIN

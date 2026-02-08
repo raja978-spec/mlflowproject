@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Car Detection</title>
+</head>
+
+<body>
+    <h2>Upload Image</h2>
+
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" required>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction %}
+    <h3>Prediction: {{ prediction }}</h3>
+    <h3>Confidence: {{ confidence }}</h3>
+    {% endif %}
+</body>
+
+</html>
